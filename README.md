@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Flutter**
 
-- 💬 Ask me about **networking, python, info_sec**
+- 💬 Ask me about **python, networking,  info_sec**
 
 - 📫 How to reach me **imailmoinkakar@gmail.com**
 
