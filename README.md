@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Moin Khan</h1>
-<h3 align="center">Passionate about Networking and Info_Sec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkakar12&label=Profile%20views&color=0e75b6&style=flat" alt="moinkakar12" /> </p>
 
