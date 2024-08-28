@@ -5,15 +5,21 @@
 
 - 🔭 I’m currently working on **FYP**
 
-- 🌱 I’m currently learning **JavaScript, Flutter**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **python, networking,  info_sec**
 
 - 📫 How to reach me **imailmoinkakar@gmail.com**
 
-- 📄 Know about my experiences [moinkakar.netlify.app](moinkakar.netlify.app)
-
 - ⚡ Fun fact **I make people laugh**
+
+<h3 align="left">Intrests:</h3>
+
+- Deep interest in computer networks.
+- Understanding how computers communicate and exchange data.
+- Enjoy studying the cryptography.
+- Eager to expand knowledge in this ever-evolving field.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
