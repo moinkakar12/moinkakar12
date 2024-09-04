@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **imailmoinkakar@gmail.com**
 
-- ⚡ Fun fact **I make people laugh**
 
 <h3 align="left">Intrests:</h3>
 
