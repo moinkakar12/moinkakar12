@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **FYP**
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 💬 Ask me about **python, networking,  info_sec**
 
 - 📫 How to reach me **imailmoinkakar@gmail.com**
