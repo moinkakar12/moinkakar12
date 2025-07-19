@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinkakar12&label=Profile%20views&color=0e75b6&style=flat" alt="moinkakar12" /> </p>
 
-- 🔭 I’m currently working on **FYP**
-
 - 💬 Ask me about **python, networking,  info_sec**
 
 - 📫 How to reach me **imailmoinkakar@gmail.com**
